@@ -26,7 +26,7 @@ International Islamic Centre for Reconciliation and Arbitration (IICRA), Dubai
 
 ## ⚡ Skills:
 [![Reactjs](https://img.shields.io/badge/-Reactjs-black?logo=react&logoColor=%2361DAFB)](#)
-[![Nodejs](https://img.shields.io/badge/-Nodejs--6DA55F?logo=node.js&logoColor=white)](#)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-6DA55F?logo=node.js&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)](#)
 [![Express](https://img.shields.io/badge/-Express-blue?logo=express)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%2335495e.svg?logo=javascript&logoColor=%white)](#)
@@ -34,6 +34,7 @@ International Islamic Centre for Reconciliation and Arbitration (IICRA), Dubai
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/aws-orange?logo=amazon&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)](#)
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
