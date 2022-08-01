@@ -5,13 +5,15 @@
 - 🎓 A 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 graduate from Islamic University of Science and Technology, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸018
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 working at...
 ```yaml
-working at International Islamic Centre for reconciliation and Arbitration (IICRA)
+International Islamic Centre for reconciliation and Arbitration (IICRA), Dubai
 ```
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
-	- 𝙶𝚎𝚝 𝚊 𝙵𝙰𝙰𝙽𝙶𝙼+ 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙
+```yaml
+- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕
+- 𝙶𝚎𝚝 𝚊 𝙵𝙰𝙰𝙽𝙶𝙼+ 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙
+```
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/zahirmasoodi?template=classic&base.header=0&gists=1&lines=1&config.timezone=uae)
