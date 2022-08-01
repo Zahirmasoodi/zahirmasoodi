@@ -28,8 +28,7 @@ International Islamic Centre for Reconciliation and Arbitration (IICRA), Dubai
 [![Reactjs](https://img.shields.io/badge/-Reactjs-black?logo=react&logoColor=%2361DAFB)](#)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-73BA55?logo=node.js&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-7F7F7F?logo=mongodb&logoColor=green)](#)
-[![Express](https://img.shields.io/badge/-Express-blue?logo=express&logoColor=white)](#)
-[![Expressjs](https://img.shields.io/badge/-Express-333333?logo=express&logoColor=white)](#)
+[![Express](https://img.shields.io/badge/-Express-333333?logo=express&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%2335495e.svg?logo=javascript&logoColor=%white)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
@@ -44,9 +43,9 @@ International Islamic Centre for Reconciliation and Arbitration (IICRA), Dubai
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zahir-ul-islam/)](https://www.linkedin.com/in/zahir-ul-islam/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?logo=Twitter&logoColor=aqua&link=https://www.twitter.com/zahirmasoodi/)](https://www.twitter.com/zahirmasoodi/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?logo=Instagram&logoColor=red&link=https://www.instagramcom/zahirmasoodi/)](https://www.instagram.com/zahirmasoodi/)  [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-blue?logo=Whatsapp&logoColor=green&link=https://wa.me/+971586224616)](https://wa.me/+971586224616)
 
-
+## 🔥 Stats
 <details>	
-  <summary><b>🔥 Github Streaks</b></summary><br>
+  <summary><b>Github Streaks</b></summary><br>
   <p align="center">
   <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=zahirmasoodi&hide_border=true&theme=light"></a></p>
 </details>
