@@ -29,7 +29,7 @@ International Islamic Centre for Reconciliation and Arbitration (IICRA), Dubai
 [![Nodejs](https://img.shields.io/badge/-Nodejs--6DA55F?logo=node.js&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)](#)
 [![Express](https://img.shields.io/badge/-Express-blue?logo=express)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%2335495e.svg?logo=javascript&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%2335495e.svg?style=for-the-badge&logo=javascript&logoColor=%white)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)](#)
@@ -38,7 +38,7 @@ International Islamic Centre for Reconciliation and Arbitration (IICRA), Dubai
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-%2335495e.svg?style=for-the-badge&logo=javascript&logoColor=%white)
+![javascript](https://img.shields.io/badge/Javascript-%2335495e.svg?style=for-the-badge&logo=javascript&logoColor=%white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
