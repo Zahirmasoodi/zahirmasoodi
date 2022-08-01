@@ -50,10 +50,4 @@ International Islamic Centre for Reconciliation and Arbitration (IICRA), Dubai
   <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=zahirmasoodi&hide_border=true&theme=light"></a></p>
 </details>
 
-<details>	
-  <summary><b>&#x1f4c8; Github activity graph</b></summary>
-  <!-- Github activity graph -->
-<a href="#"><img alt="Zahir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zahirmasoodi&count_private=true&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true"></a>
-</details>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
