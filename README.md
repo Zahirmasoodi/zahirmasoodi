@@ -6,10 +6,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h3 align="center">Hi there, I'm Zahir</h3>
 
-<p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com? font=Ubuntu&color=58a6ff&size=22&center=true&lines=Welcome+to+my+profile+😇;Happy+to+see+you+here+😀"></a>
-</p>
-
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 A 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 graduate from Islamic University of Science and Technology (Kashmir), 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸018
