@@ -41,3 +41,22 @@ International Islamic Centre for Reconciliation and Arbitration (IICRA), Dubai
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Zahir%20ul%20Islam-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zahir-ul-islam/)](https://www.linkedin.com/in/zahir-ul-islam/)  [![Twitter Badge](https://img.shields.io/badge/-Zahir%20ul%20Islam-%231DA1F2.svg?logo=Twitter&logoColor=aqua&link=https://www.twitter.com/zahirmasoodi/)](https://www.twitter.com/zahirmasoodi/)  [![Instagram Badge](https://img.shields.io/badge/-Zahir%20ul%20Islam-blue?logo=Instagram&logoColor=red&link=https://www.instagramcom/zahirmasoodi/)](https://www.instagram.com/zahirmasoodi/)  [![Whatsapp Badge](https://img.shields.io/badge/-Zahir%20ul%20Islam-blue?logo=Whatsapp&logoColor=green&link=https://wa.me/+971586224616)](https://wa.me/+971586224616)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api? username=basitmir7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,0000  00,130F40" alt="Basit Github Stats" width="100%" height="200">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir7&theme=tokyonight" alt="mystreak" height="200" width="100%"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?  username=basitmir7&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact" width="100%" alt="basit" />
+
+  <br />
+</p>
+<p align="center>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Jheni-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jheni-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jheni-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jheni-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jheni-Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  </div>
+</p>
