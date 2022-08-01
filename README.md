@@ -1,9 +1,7 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=zahirmasoodi.zahirmasoodi&color=00cf00)
-<p align="right">
+<p>
   <a href="#"><img alt="Profile Views" src="https://gpvc.arturio.dev/Zahirmasoodi"></a>
 </p>
-![Profile Views](https://gpvc.arturio.dev/Zahirmasoodi/badge?page_id=zahirmasoodi.zahirmasoodi&color=00cf00)
-  ![Profile Views](https://gpvc.arturio.dev/Zahirmasoodi)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
