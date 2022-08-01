@@ -20,7 +20,6 @@ working at International Islamic Centre for reconciliation and Arbitration (IICR
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Zahir%20ul%20Islam-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zahir-ul-islam/)](https://www.linkedin.com/in/zahir-ul-islam/)
-- [Twitter  ](https://twitter.com/zahirmasoodi)
-- [Instagram  ](https://instagram.com/zahirmasoodi)
-- [WhatsApp  ](https://wa.me/+971586224616)
+- [![Twitter Badge](https://img.shields.io/badge/-Zahir%20ul%20Islam-blue?logo=Twitter&logoColor=blue&link=https://twitter.com/zahirmasoodi)](Twitter](https://twitter.com/zahirmasoodi)
+- [![Instagram Badge](https://img.shields.io/badge/-Zahir%20ul%20Islam-blue?logo=Instagram&logoColor=blue&link=https://instagram.com/zahirmasoodi)](Instagram](https://instagram.com/zahirmasoodi)
 - [![Whatsapp Badge](https://img.shields.io/badge/-Zahir%20ul%20Islam-blue?logo=Whatsapp&logoColor=green&link=https://wa.me/+971586224616/)](https://www.wa.me/+971586224616/)
