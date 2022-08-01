@@ -44,10 +44,7 @@ International Islamic Centre for Reconciliation and Arbitration (IICRA), Dubai
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=zahirmasoodi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,0000  00,130F40" alt="Zahir Github Stats" width="100%" height="200">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahirmasoodi&theme=tokyonight" alt="mystreak" height="200" width="100%"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?  username=zahirmasoodi&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact" width="100%" alt="Zahir" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?  username=Zahirmasoodi&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact" width="100%" alt="Zahir" />
 
   <br />
 </p>
