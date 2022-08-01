@@ -47,7 +47,7 @@ International Islamic Centre for Reconciliation and Arbitration (IICRA), Dubai
 <details>	
   <summary><b>🔥 Github Streaks</b></summary><br>
   <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark"></a></p>
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=zahirmasoodi&hide_border=true&theme=light"></a></p>
 </details>
 
 <details>	
