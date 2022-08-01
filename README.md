@@ -41,7 +41,7 @@ International Islamic Centre for Reconciliation and Arbitration (IICRA), Dubai
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-187FB7?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zahir-ul-islam/)](https://www.linkedin.com/in/zahir-ul-islam/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA0F1?logo=Twitter&logoColor=white&link=https://www.twitter.com/zahirmasoodi/)](https://www.twitter.com/zahirmasoodi/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-CE2E82?logo=Instagram&logoColor=white&link=https://www.instagramcom/zahirmasoodi/)](https://www.instagram.com/zahirmasoodi/)  [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-#2FB82D?logo=Whatsapp&logoColor=white&link=https://wa.me/+971586224616)](https://wa.me/+971586224616)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-187FB7?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zahir-ul-islam/)](https://www.linkedin.com/in/zahir-ul-islam/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA0F1?logo=Twitter&logoColor=white&link=https://www.twitter.com/zahirmasoodi/)](https://www.twitter.com/zahirmasoodi/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-9D3A92?logo=Instagram&logoColor=white&link=https://www.instagramcom/zahirmasoodi/)](https://www.instagram.com/zahirmasoodi/)  [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-#2FB82D?logo=Whatsapp&logoColor=white&link=https://wa.me/+971586224616)](https://wa.me/+971586224616)
 
 ## 🔥 Stats
 <details>	
