@@ -19,7 +19,7 @@ working at International Islamic Centre for reconciliation and Arbitration (IICR
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[LinkedIn  ](https://linkedin.com/in/zahir-ul-islam)
-[Twitter  ](https://twitter.com/zahirmasoodi)
-[Instagram  ](https://instagram.com/zahirmasoodi)
-[WhatsApp  ](https://wa.me/+971586224616)
+- [LinkedIn  ](https://linkedin.com/in/zahir-ul-islam)
+- [Twitter  ](https://twitter.com/zahirmasoodi)
+- [Instagram  ](https://instagram.com/zahirmasoodi)
+- [WhatsApp  ](https://wa.me/+971586224616)
