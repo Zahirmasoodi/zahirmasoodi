@@ -22,4 +22,4 @@ working at International Islamic Centre for reconciliation and Arbitration (IICR
 - [![Linkedin Badge](https://img.shields.io/badge/-Zahir%20ul%20Islam-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zahir-ul-islam/)](https://www.linkedin.com/in/zahir-ul-islam/)
 - [![Twitter Badge](https://img.shields.io/badge/-Zahir%20ul%20Islam-blue?logo=Twitter&logoColor=aqua&link=https://www.twitter.com/zahirmasoodi/)](https://www.twitter.com/zahirmasoodi/)
 - [![Instagram Badge](https://img.shields.io/badge/-Zahir%20ul%20Islam-blue?logo=Instagram&logoColor=red&link=https://www.instagramcom/zahirmasoodi/)](https://www.instagram.com/zahirmasoodi/)
-- [![Whatsapp Badge](https://img.shields.io/badge/-Zahir%20ul%20Islam-blue?logo=Whatsapp&logoColor=green&link=https://wa.me/+971586224616/)](https://www.wa.me/+971586224616/)
+- [![Whatsapp Badge](https://img.shields.io/badge/-Zahir%20ul%20Islam-blue?logo=Whatsapp&logoColor=green&link=https://wa.me/+971586224616)](https://wa.me/+971586224616)
