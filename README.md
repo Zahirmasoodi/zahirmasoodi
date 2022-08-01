@@ -28,10 +28,10 @@ International Islamic Centre for Reconciliation and Arbitration (IICRA), Dubai
 ![Metrics](https://metrics.lecoq.io/zahirmasoodi?template=classic&base.header=0&gists=1&lines=1&config.timezone=uae)
 
 ## ⚡ Skills:
-[![Reactjs](https://img.shields.io/badge/-Reactjs-blue?logo=javascript)](#)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?logo=javascript)](#)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=javascript)](#)
-[![Express](https://img.shields.io/badge/-Express-blue?logo=javascript)](#)
+[![Reactjs](https://img.shields.io/badge/-Reactjs-blue?logo=reactjs)](#)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?logo=nodejs)](#)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)](#)
+[![Express](https://img.shields.io/badge/-Express-blue?logo=express)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
