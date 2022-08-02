@@ -30,7 +30,7 @@ International Islamic Centre for Reconciliation and Arbitration (IICRA), Dubai
 [![MongoDB](https://img.shields.io/badge/-MongoDB-7F7F7F?logo=mongodb&logoColor=green)](#)
 [![Express](https://img.shields.io/badge/-Express-333333?logo=express&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%2335495e.svg?logo=javascript&logoColor=%white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%2335495e.svg?logo=typescript&logoColor=%white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-yellow?logo=typescript&logoColor=%white)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)](#)
