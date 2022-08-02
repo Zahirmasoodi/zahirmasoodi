@@ -35,7 +35,7 @@ International Islamic Centre for Reconciliation and Arbitration (IICRA), Dubai
 [![Tailwind](https://img.shields.io/badge/-Tailwind-44C1F8?logo=tailwindcss&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/aws-172338?logo=amazon&logoColor=ED8732)](#)
 [![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/github-FDFDFD?logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/github-323232?logo=git&logoColor=white)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)](#)
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
