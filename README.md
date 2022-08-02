@@ -1,4 +1,6 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=zahirmasoodi.zahirmasoodi&color=00cf00)
+![views](https://gpvc.arturio.dev/Zahirmasoodi)
+
 <p>
   <a href="#"><img alt="Profile Views" src="https://gpvc.arturio.dev/Zahirmasoodi"></a>
 </p>
