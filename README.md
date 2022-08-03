@@ -1,7 +1,8 @@
-![](https://i.imgur.com/waxVImv.png)
+
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=zahirmasoodi.zahirmasoodi&color=00cf00)
 ![views](https://gpvc.arturio.dev/Zahirmasoodi)
+![](https://i.imgur.com/waxVImv.png)
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h3 align="center">Hi there, I'm Zahir</h3>
