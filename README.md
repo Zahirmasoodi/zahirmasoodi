@@ -18,9 +18,6 @@ Actually use my password twice in a row before having to reset it again.
 Close all the open Google Chrome tabs
 ```
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/zahirmasoodi?template=classic&base.header=0&gists=1&lines=1&config.timezone=uae)
-
 ## ⚡ Skills:
 [![Reactjs](https://img.shields.io/badge/-Reactjs-black?logo=react&logoColor=%2361DAFB)](#)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-73BA55?logo=node.js&logoColor=white)](#)
